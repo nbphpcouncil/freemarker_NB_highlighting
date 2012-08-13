@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.ftl
+OpenIDE-Module-Layer: org/ftl/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/ftl/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

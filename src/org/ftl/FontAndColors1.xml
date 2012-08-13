@@ -1,0 +1,17 @@
+<!DOCTYPE fontscolors PUBLIC
+    "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN"
+    "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor name="id" foreColor="3300CC" >
+        <font style="bold" />
+    </fontcolor>
+    <fontcolor name="literal" foreColor="993333"  >
+        <font style="bold" />
+    </fontcolor>
+    <fontcolor name="comment" foreColor="00CC33" />
+    <fontcolor name="statement" foreColor="CC0099"  >
+    </fontcolor>
+    <fontcolor name="braces" foreColor="CC0099"  >
+    </fontcolor>
+    <fontcolor name="equals" foreColor="CC0099" />
+</fontscolors>
