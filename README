@@ -1,0 +1,4 @@
+After installing the plugin, create a project or open a project, then go to
+the New File dialog, to the Other category, where you will find a FreeMarker
+template. Syntax coloring is provided, which can be changed in the Options
+window.
