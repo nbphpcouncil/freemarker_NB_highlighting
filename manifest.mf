@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 OpenIDE-Module: org.ftl
 OpenIDE-Module-Layer: org/ftl/layer.xml
 OpenIDE-Module-Localizing-Bundle: org/ftl/Bundle.properties
-OpenIDE-Module-Specification-Version: 1.0
+OpenIDE-Module-Specification-Version: 1.0.1
 OpenIDE-Module-Module-Dependencies: org.netbeans.modules.csl.api > 2.42.0, 
     org.netbeans.modules.editor.bracesmatching > 1.31.0, 
     org.netbeans.modules.editor.indent > 1.34.0, 
